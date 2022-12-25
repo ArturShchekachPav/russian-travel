@@ -13,3 +13,10 @@
     line-height: 1.11;
   }
 }
+
+@media screen and (max-width: 425px) {
+  .header__lang-link {
+    position: relative;
+    bottom: 5px;
+  }
+}
