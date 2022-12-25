@@ -1,15 +1,15 @@
 ﻿.main__photo-grid {
-  margin-top : 92px;
+  margin-top: 92px;
 }
 
-@media screen and (max-width : 864px) {
+@media screen and (max-width: 864px) {
   .main__photo-grid {
-    margin-top : 88px;
+    margin-top: 88px;
   }
 }
 
-@media screen and (max-width : 545px) {
+@media screen and (max-width: 545px) {
   .main__photo-grid {
-    margin-top : 64px;
+    margin-top: 64px;
   }
 }

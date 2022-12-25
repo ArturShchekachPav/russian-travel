@@ -1,24 +1,24 @@
 ﻿.lead__figure {
-  max-width  : 1080px;
-  margin     : 64px auto 0 auto;
-  padding    : 0 48px 0 48px;
-  box-sizing : border-box;
+  max-width: 1080px;
+  margin: 64px auto 0 auto;
+  padding: 0 48px 0 48px;
+  box-sizing: border-box;
 }
 
-@media screen and (max-width : 1024px) {
+@media screen and (max-width: 1024px) {
   .lead__figure {
-    margin-top : 56px;
+    margin-top: 56px;
   }
 }
 
-@media screen and (max-width : 864px) {
+@media screen and (max-width: 864px) {
   .lead__figure {
-    padding : 0 calc((100% - 768px) / 2) 0 calc((100% - 768px) / 2);
+    padding: 0 calc((100% - 768px) / 2) 0 calc((100% - 768px) / 2);
   }
 }
 
-@media screen and (max-width : 767px) {
+@media screen and (max-width: 767px) {
   .lead__figure {
-    margin-top : 40px;
+    margin-top: 40px;
   }
 }
