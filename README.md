@@ -8,4 +8,4 @@
 
 Адаптация под разрешения: 1280px, 1024px, 768px, 320px.
 
-Ссылка на GitHub Pages: 
+Ссылка на GitHub Pages: https://arturshchekachpav.github.io/russian-travel/
